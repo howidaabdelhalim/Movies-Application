@@ -13,7 +13,7 @@ This is a React Native app that fetches movies from The Movie Database (TMDb) AP
 - **Purplish Gradient Header**: A sleek gradient header for a modern, visually appealing design.
 - **Movie Cards**: Each movie card displays the name of the movie and includes a star button to add or remove the movie from your favorites page.
 
-### 🛠️ Technologies Used:
+### Technologies Used:
 - **React Native**
 - **TMDb API** for movie data.
 - **Context API** for state management.
